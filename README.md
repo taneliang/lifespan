@@ -9,6 +9,8 @@ Lifespan calculates the number of days you've lived, as well as your expected de
 
 ## History
 
+![Screenshot](Screenshot.png)
+
 While I was exploring decimal clocks in 2013, I created a Mac menu bar app which replaced the system clock with a decimal clock. On a whim, I added a death date calculator. The resulting countdown made me ponder the nature of existence.
 
 Now it's your turn. Enjoy!

@@ -2,7 +2,7 @@
 
 Website which counts up from your birthday down to your death
 
-<https://taneliang.github.io/lifespan/>
+<https://lifespan.eliangtan.com>
 
 ![Screenshot](Screenshot.png)
 
